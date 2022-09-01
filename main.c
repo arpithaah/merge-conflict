@@ -7,7 +7,7 @@ Initial Function()
 
 Initial Security()
 {
- Feature 1 updatEE
+ Feature 1 update
 }
 
 
